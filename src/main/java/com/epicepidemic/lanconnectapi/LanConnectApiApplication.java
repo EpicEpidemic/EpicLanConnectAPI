@@ -1,0 +1,12 @@
+package com.epicepidemic.lanconnectapi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class LanConnectApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(LanConnectApiApplication.class, args);
+	}
+}
